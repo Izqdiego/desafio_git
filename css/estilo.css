@@ -307,3 +307,14 @@ and (min-device-width : 320px) and (max-device-width : 480px) {
 .galeria__img8{
     grid-area: img8;
 }
+.navegacion-titulo{
+    margin-top: 5rem;
+    font-family: 'Pacifico', cursive;
+}
+.container-fluid{
+    justify-content: space-around;
+}
+.btn-outline-warning {
+    color: #3c3520;
+    border: none;
+}
